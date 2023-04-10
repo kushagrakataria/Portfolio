@@ -3627,7 +3627,7 @@ input, select, textarea {
 		z-index: 2;
 	}
 
-		#nav ul.divided li {
+		/* #nav ul.divided li {
 			border-top-color: #ffffff;
 		}
 
@@ -3751,7 +3751,7 @@ input, select, textarea {
 				display: none;
 			}
 
-		}
+		} */
 
 /* Main */
 
@@ -4485,7 +4485,7 @@ input, select, textarea {
 
 /* Nav Panel */
 
-	#navPanelToggle {
+	/* #navPanelToggle {
 		text-decoration: none;
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
@@ -4686,4 +4686,4 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	}
+	} */
